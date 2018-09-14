@@ -1,0 +1,8 @@
+{
+  "name": "React Dates Picker: Node.js",
+  "description": "",
+  "repository": "https://github.com/developerJohnBeagan/react-dates-picker",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["react", "dates", "picker", "node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

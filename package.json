@@ -1,0 +1,25 @@
+{
+  "name": "react-dates-picker",
+  "version": "0.0.1",
+  "description": "Date(s) Picker using React",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "react",
+    "dates",
+    "picker"
+  ],
+  "license": "MIT"
+}
